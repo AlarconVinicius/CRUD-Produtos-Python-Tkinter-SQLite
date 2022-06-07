@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox as msb
-from mainBdAlarcon import *
+from mainDB import *
 
 
 green = "#44d63c"
